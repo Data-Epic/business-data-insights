@@ -1,0 +1,16 @@
+[project]
+name = "candidate-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "kaggle>=2.2.4",
+    "matplotlib>=3.11.1",
+    "pandas>=3.0.5",
+    "polars>=1.44.1",
+    "psycopg[binary]>=3.3.4",
+    "pyarrow>=25.0.1",
+    "python-dotenv>=1.2.3",
+]
